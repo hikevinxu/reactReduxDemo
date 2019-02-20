@@ -1,0 +1,26 @@
+.Helloworld{
+    .movie{
+        height: auto;
+        background: pink;
+        overflow: hidden;
+        .movieItem{
+            width: 50px;
+            height: 200px;
+            margin: 10px;
+            background-color: #fff;
+            float: left;
+        }
+    }
+    .book{
+        height: auto;
+        background: green;
+        overflow: hidden;
+        .bookItem{
+            width: 50px;
+            height: 200px;
+            margin: 10px;
+            background-color: #fff;
+            float: left;
+        }
+    }
+}
